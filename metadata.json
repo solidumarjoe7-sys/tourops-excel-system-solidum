@@ -1,0 +1,6 @@
+{
+  "name": "TourOps Excel System",
+  "description": "Isang matalinong record management system na parang Excel para sa travel at tour operations na may automatic grouping para sa Arrival, Departure, at Attendance records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
